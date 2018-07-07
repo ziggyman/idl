@@ -1,0 +1,3 @@
+pro rave_remove_stars_without_atmospheric_parameters
+
+end
